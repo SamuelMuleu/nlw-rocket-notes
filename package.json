@@ -1,8 +1,10 @@
 {
+  "homepage": "https://samuelmuleu.github.io/RocketNotes",
   "name": "nlw-expert-notes",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
