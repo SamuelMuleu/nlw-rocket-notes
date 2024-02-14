@@ -22,7 +22,7 @@ Este projeto utiliza as seguintes tecnologias:
 
 O layout do projeto foi inspirado no seguinte modelo do Figma:
 
-[Layout do Projeto]([https://www.figma.com/file/mZeYvttuLepxM0FXmZ1uAj/RocketNotes-(Copy)?node-id=0%3A1&mode=dev](https://www.figma.com/file/I89SQsHoCGZP9fOhbNWP5U/NLW-expert-%E2%80%A2-Notes-(Community)?type=design&node-id=102-1489&mode=design&t=tvIoV0i3ETTf3siV-0))
+[Layout do Projeto](https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes)
 
 
 ## 📝 Funcionalidades
